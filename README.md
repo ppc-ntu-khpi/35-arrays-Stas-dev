@@ -1,5 +1,5 @@
 # Практична робота "Масиви, вирази, керування виконанням програми"
 ### В рамках практичної роботи я реалізував пошук кількості щасливих білетів
 
-![][https://github.com/ppc-ntu-khpi/35-arrays-Stas-dev/blob/master/output.png]
+![](https://github.com/ppc-ntu-khpi/35-arrays-Stas-dev/blob/master/output.png)
 
